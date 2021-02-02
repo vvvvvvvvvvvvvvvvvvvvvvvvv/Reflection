@@ -1,2 +1,2 @@
 В данном репозитории расморено несколько примеров с использование Reflection API.
-Так же пример как разрабатывются библиотеки для Dependency Injection c помощью Reflection API.
+Так же пример как разрабатываются библиотеки для Dependency Injection c помощью Reflection API.
